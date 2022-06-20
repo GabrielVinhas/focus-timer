@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+  gap: 19.2rem;
+  align-items: baseline;
+  
+  margin-top: 19.6rem;
+}
+
+.timer {
+  font-family: 'Roboto', sans-serif;;
+  font-size: 12.6rem;
+  color: #323238;
+
+  align-items: center;
+}
+
+.options {
+  display: flex;
+  gap: 4.0rem;
+
+  border-style: none;
+
+  justify-content: space-between;
+}
+
+button {
+  border: none;
+  background: transparent;
+}
+
+.page button:hover {
+  cursor: pointer;
+}
+
+.sounds {
+  gap: 3.2rem;
+  display: grid;
+  grid-template-columns: 14rem 13.8rem;
+}
+
+.selectedTree path:nth-child(1){
+  fill: rgb(75, 245, 8);
+}
+
+.selectedCloud path:nth-child(1) {
+  fill: rgb(9, 233, 233);
+}
+
+.selectedMarket path:nth-child(1) {
+  fill: yellow;
+}
+
+.selectedFire path:nth-child(1) {
+  fill: red;
+}
