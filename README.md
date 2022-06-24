@@ -1,6 +1,6 @@
 # FOCUS TIMER
 
-<img height="300px" src="">
+<img height="300px" src="https://i.imgur.com/g8X7rqK.gif">
 
 Projeto original do Figma: https://www.figma.com/file/uLjrbqpTRgv5hVtDptxdt4/Stage-05---Focus-Timer-2.0-(Copy)
 
