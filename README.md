@@ -2,7 +2,7 @@
 
 <img height="300px" src="">
 
-Projeto original do Figma: 
+Projeto original do Figma: https://www.figma.com/file/uLjrbqpTRgv5hVtDptxdt4/Stage-05---Focus-Timer-2.0-(Copy)
 
 Deploy: https://gabrielvinhas.github.io/focus-timer/
 
